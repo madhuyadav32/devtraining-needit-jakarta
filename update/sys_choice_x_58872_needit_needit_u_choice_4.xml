@@ -120,7 +120,7 @@
             <element>u_choice_4</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Ypur department choice</label>
+            <label>Your department choice</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>3</sequence>
@@ -129,9 +129,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2f0ef303db90130076b6771c8c9619e7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-02-20 10:52:27</sys_updated_on>
+            <sys_updated_on>2018-02-20 13:12:06</sys_updated_on>
             <value>your_choice</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
